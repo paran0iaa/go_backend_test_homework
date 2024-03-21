@@ -1,5 +1,6 @@
 package main
 
+//coment is done
 import (
 	"fmt"
 )
@@ -11,4 +12,3 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Я домашка")
 }
-//coment is done 
